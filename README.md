@@ -1,0 +1,1 @@
+A Demo Application which demonstrates how to use requirejs with angularjs.

@@ -1,0 +1,23 @@
+{
+  "name": "require-angular",
+  "description": "A demo application for learning requirejs with angularjs",
+  "main": "index.js",
+  "authors": [
+    "Balaji"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/BalajiA/AngularRequire",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "latest",
+    "requirejs": "latest",
+    "requirejs-domready": "latest"
+  }
+}
